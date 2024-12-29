@@ -1,4 +1,3 @@
-```markdown
 # Python Practice Repository
 
 Welcome to my Python practice repository! This repository contains a variety of Python scripts and Jupyter Notebooks that demonstrate fundamental and advanced Python concepts through examples and exercises.
@@ -25,5 +24,3 @@ Feel free to explore and contribute! Suggestions for improvement or additional p
 ---
 
 Thank you for visiting my Python practice repository! 🎉
-```
-
